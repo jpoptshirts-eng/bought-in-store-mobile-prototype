@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Prototype</title>
+  <style>
+    html, body { 
+      margin: 0; 
+      height: 100%; 
+      overflow: hidden; 
+    }
+    iframe { 
+      width: 100%; 
+      height: 100%; 
+      border: none; 
+    }
+  </style>
+</head>
+<body>
+  <!-- Replace this URL with your Make prototype link -->
+  <iframe src="https://www.figma.com/make/tpXs14JFIpa38zx1fjIBe3/Bought-In-Store---1st-Data--Copy-?fullscreen=1"></iframe>
+</body>
+</html>
